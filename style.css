@@ -43,6 +43,12 @@ header{
     font-size: 20px;
     font-weight: 700;
 }
+.btn:hover{
+    color: blue;
+    cursor: pointer;
+    background: rgba(229, 84, 115, 0.8);
+    transition: 0.4s;
+}
 .header-image{
     background: url('Images/pngwing\ 10.png');
     margin: 50px 70px 0px 0px;
@@ -169,7 +175,7 @@ h6{
     border-radius: 8px;
     font-size: 16px;
     color: rgba(39, 39, 39, 0.80);
-    margin-right: 15px;
+    margin-right: 5px;
 
 }
 
